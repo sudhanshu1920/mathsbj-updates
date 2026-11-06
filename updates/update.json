@@ -1,9 +1,9 @@
 {
   "packageName": "com.sudhanshu.mathsbj",
-  "versionCode": 1191,
-  "versionName": "1.0.56",
+  "versionCode": 1192,
+  "versionName": "1.0.57",
   "apkUrl": "https://github.com/sudhanshu1920/mathsbj-updates/releases/download/latest/MathMaster-release.apk",
-  "sha256": "ce3717aae31feaaaee495383aaae6959aaf3c996d544e02c8bb0788f083ce95c",
-  "releaseNotes": "MathMaster build 1191",
-  "publishedAt": "2026-11-06T03:59:08.445749+00:00"
+  "sha256": "40fede0c246185cbe7e4050663a4f6b2f00beadd902c7a809ef7ad04a5da09e5",
+  "releaseNotes": "MathMaster build 1192",
+  "publishedAt": "2026-11-06T06:56:18.236565+00:00"
 }
